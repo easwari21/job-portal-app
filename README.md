@@ -1,21 +1,21 @@
-# Job Portal Application 🚀
+# Job Portal Application 
 
 A modern, responsive, and robust Job Portal built with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). This platform connects employers with job seekers, offering a seamless experience to browse listings, post jobs, and apply for roles.
 
-## 🌟 Features
+##  Features
 
 - **Modern UI/UX**: Premium dark mode design with glassmorphism effects and smooth micro-animations.
 - **RESTful API**: A scalable Express.js backend handling job creations and data fetching.
 - **Responsive Design**: Looks great on desktop, tablet, and mobile devices.
 - **Vite Integration**: Extremely fast frontend build tooling.
 
-## 💻 Tech Stack
+## Tech Stack
 
 - **Frontend**: React.js, Vite, React Router DOM, Axios, Vanilla CSS.
 - **Backend**: Node.js, Express.js, Mongoose, dotenv, CORS.
 - **Database**: MongoDB (Local or Atlas).
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 Make sure you have [Node.js](https://nodejs.org/) installed on your machine. You will also need a running MongoDB server (either locally installed or a free cluster on MongoDB Atlas).
@@ -57,7 +57,7 @@ npm run dev
 
 The application will now be running on `http://localhost:5173/` and the backend on `http://localhost:5000/`.
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 job-portal-app/
